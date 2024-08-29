@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=QThai1704&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+Hi, welcome to my Github
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/thainq1704/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/thai.nq_/) 
 
