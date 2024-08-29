@@ -17,8 +17,8 @@ WELCOME TO MY GITHUB
 
 <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
 <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />
-<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<a href="https://www.flaticon.com/free-icons/java" title="java icons">Java icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/java" title="java icons">Java icons created by Pixel perfect - Flaticon</a>
 <img align="left" alt="Spring" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />
 <img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
