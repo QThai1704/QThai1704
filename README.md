@@ -8,16 +8,16 @@ WELCOME TO MY GITHUB
 
 ### Connect with me:
 
-<a href="[https://www.facebook.com/yourprofile](https://www.facebook.com/thainq1704/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="40" width="40" /></a>
-<a href="[https://www.instagram.com/yourprofile](https://www.instagram.com/thai.nq_/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="40" width="40" /></a>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/thainq1704/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/thai.nq_/) 
 
 ---
 
-### Languages and Tools:
+### Languages and Framework:
 
-<a href="https://www.flaticon.com/free-icons/java" title="java icons">![image](https://github.com/user-attachments/assets/efb29602-d8a6-4738-b54b-3d2a0f6b857a)
-</a>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
 <br /><br />
 
+
+## 🌐 Socials:
