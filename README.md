@@ -1,7 +1,4 @@
-<h1 align="center">Hello, I'm Quang Thai</h1>
-
-
-WELCOME TO MY GITHUB
+<h1 align="center">Hello, I'm Quang Thai. Welcome to my Github</h1>
 
 ### Contact me: **quangthai170402@gmail.com**
 
