@@ -1,4 +1,5 @@
-# Hello, I'm Quang Thai
+<h1 align="center">Hello, I'm Quang Thai</h1>
+
 
 WELCOME TO MY GITHUB
 
