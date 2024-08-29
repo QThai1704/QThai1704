@@ -15,7 +15,8 @@ WELCOME TO MY GITHUB
 
 ### Languages and Tools:
 
-<a href="https://www.flaticon.com/free-icons/java" title="java icons">Java icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/java" title="java icons">![image](https://github.com/user-attachments/assets/efb29602-d8a6-4738-b54b-3d2a0f6b857a)
+</a>
 
 
 <br /><br />
