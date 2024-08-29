@@ -3,7 +3,7 @@
 WELCOME TO MY GITHUB
 
 - 📫 Contact me:
--  **quangthai170402@gmail.com**
+**quangthai170402@gmail.com**
 
 ---
 
